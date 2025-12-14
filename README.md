@@ -10,3 +10,11 @@ Areas of interest include:
 - Physical and semi-physical attacker models
 
 This repository hosts research notes, experiments, and supporting material.
+
+
+
+
+© 2025 Cold Boot Labs
+
+Unless otherwise stated, content in this repository is provided for
+informational and research purposes only.
